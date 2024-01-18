@@ -71,7 +71,7 @@ int main()
     case 6:
         cout << "LX";
         break;
-    case 7:
+    case :
         cout << "LXX";
         break;
     case 8:
